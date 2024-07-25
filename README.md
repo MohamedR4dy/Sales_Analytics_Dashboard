@@ -1,7 +1,6 @@
 # Sales Analytics  Dashboard
 
-## Overview
-
+## Project's Overview
 The Sales Performance Dashboard project aims to provide a comprehensive analysis of sales performance across different segments, countries, and time periods based on the provided dataset. This interactive Excel dashboard consolidates sales data, visualizes key metrics, and supports data-driven decision-making.
 
 ![Dashboard](https://github.com/MohamedR4dy/Sales_Analytics_Dashboard/blob/main/Dashboard.png)
